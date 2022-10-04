@@ -1,7 +1,7 @@
-# v14-bot
-A discord bot coded on v14, This discord bot's commands are from different sources!.
+# v14-codes
 
+- v14 Slash / Normal Commands Code For Your Bot
 
-API Commands,Normal Commands,Slash Commands
+# Note
 
-- Upto-date
+> These Codes are taken from different sources and updated to v14. I would give the original Poster's name, Giving credit to them will be good!.
